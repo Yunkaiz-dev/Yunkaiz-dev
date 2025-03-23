@@ -13,19 +13,17 @@
 ## 🚀 Frameworks & Libraries:
 - **Frontend:** React.js, Angular
 - **Backend:** Node.js, .NET
-- **State Management:** Redux (opcional, si lo usas)
+- **State Management:** Redux
 
-## 🌐 Hosting & Deployment:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ## 📜 Other Skills:
-- **Scripting:** Bash (opcional, si lo usas)
-- **Design Tools:** Canva (opcional, si lo usas)
+- **Scripting:** Bash
+- **Design Tools:** Canva 
 
 ## 📫 Contact:
-- **Email:** [Tu email profesional]
-- **LinkedIn:** [Tu perfil de LinkedIn]
-- **GitHub:** [Tu perfil de GitHub]
+- **Email:** vegarosario.rafael@gmail.com
+- **LinkedIn:** www.linkedin.com/in/jose-rafael-vega-rosario-1153a317b
+- **GitHub:** (https://github.com/Yunkaiz-dev)
 
 ---
 
